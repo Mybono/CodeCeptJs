@@ -7,4 +7,4 @@
 
 ### Last one is [rateUs.js](https://github.com/Mybono/CodeCeptJs/blob/main/rateUs.js), the test continues less than 7 seconds but checks almost all the functionality of one of the widgets. In addition, the test uses the [visual compare function](https://github.com/Mybono/CodeCeptJs/blob/main/elementVisualCompare.js).
 
-
+### One of the great advantages of CodeCeptJs is that it's very easy to follow up on someone else's work, easy to read code. And last but not least, the test environment is set up very quickly, there is integration with popular helpers and appium.
