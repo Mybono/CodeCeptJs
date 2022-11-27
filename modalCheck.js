@@ -1,6 +1,5 @@
-Our story redactor has many different modals, this func test them. We can call it  in test just by: I.modalCheck("create_Placeholder");
-### [InAppStory](https://inappstory.com/)
-this function checks: the text, css & buttons by [grabElements](https://github.com/Mybono/CodeCeptJs/blob/main/grabElements.js) func, in each modal, and initiates a visual comparison.
+// Our story redactor has many different modals, this func test them. We can call it  in test just by: I.modalCheck("create_Placeholder");
+// this function checks: the text, css by grabCss func & buttons by grabElements func, in each modal, and initiates a visual comparison.
 
 
 async modalCheck(activeModal) {
