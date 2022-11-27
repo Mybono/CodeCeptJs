@@ -5,4 +5,6 @@
 
 ### And second example is [Checking the position of an element func](https://github.com/Mybono/CodeCeptJs/blob/main/checkPosition.js), this function checks the coordinates of elements between different events. For example you can look at [editButton.js](https://github.com/Mybono/CodeCeptJs/blob/main/editButton.js)
 
-### Last one is [rateUs.js](https://github.com/Mybono/CodeCeptJs/blob/main/rateUs.js), the test continues less than 7 seconds but checks almost all the functionality of one of the widgets. In addition, the test uses the [visual comparison function](https://github.com/Mybono/CodeCeptJs/blob/main/elementVisualCompare.js).
+### Last one is [rateUs.js](https://github.com/Mybono/CodeCeptJs/blob/main/rateUs.js), the test continues less than 7 seconds but checks almost all the functionality of one of the widgets. In addition, the test uses the [visual compare function](https://github.com/Mybono/CodeCeptJs/blob/main/elementVisualCompare.js).
+
+
